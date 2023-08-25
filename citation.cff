@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tariqul 
+    given-names: Islam 
+    orcid: https://orcid.org/0000-0003-2831-2252
+    
+  - family-names: Sikder
+    given-names: Sujit Kumar
+    orcid: https://orcid.org/0000-0002-0265-7394
+    
+version: 1.0.0
+doi: will be given soon
+date-released: 22023-MM-DD
+url: "https://github.com/ssujit/SpatialTransitionDynamic.git"
