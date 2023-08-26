@@ -9,6 +9,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-0265-7394"
 title: "SpatialTransitionDynamic"
 version: 1.0.0
-doi: soon
+doi: https://doi.org/10.5281/zenodo.8286515
 date-released: 2023-08-25
 url: "https://github.com/ssujit/SpatialTransitionDynamic"
